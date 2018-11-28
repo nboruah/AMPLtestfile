@@ -7,7 +7,7 @@ param rate :=  bands 200   coils 140 ;
 param inv0 :=  bands  10   coils   0 ;
 
 param prodcost :=  bands 10    coils  11 ;
-param invcost  :=  bands  2.5  coils   3 ;
+param  invcost  :=  bands  2.5  coils   3 ;
 
 param revenue:   1     2     3     4 :=
        bands    25    26    27    27
